@@ -8,7 +8,7 @@ Link Akun [Linkedin](https://www.linkedin.com/in/muhammad-reza-ivano-pahlevi-2a0
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/IvanoWoii">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IvanoWoii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IvanoWoii&layout=compact&layout=compact&theme=algolia"/>
 </a>
